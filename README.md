@@ -10,8 +10,7 @@
 # 프로젝트  코멘트
 학교에서 진행한 두번 째 팀 프로젝트입니다.
 
-
-
+# 소개 이미지
 
 ![9](https://github.com/00moa00/snowfairy/blob/main/Data/Images/title.png)
 ![9](https://github.com/00moa00/snowfairy/blob/main/Data/Images/game_clear.png)
